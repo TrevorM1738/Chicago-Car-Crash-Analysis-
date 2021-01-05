@@ -7,4 +7,4 @@ Then I decided to drop the rest of the NaNs
 
 Also grouped data into larger groups from the primary cause category so there was not too many dummy variables created.
 
-!(https://github.com/TrevorM1738/Chicago-Car-Crash-Analysis-/blob/main/picture/rename.png)
+![](https://github.com/TrevorM1738/Chicago-Car-Crash-Analysis-/blob/main/picture/rename.png)
