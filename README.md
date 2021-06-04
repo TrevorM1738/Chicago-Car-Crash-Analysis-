@@ -22,7 +22,7 @@ This is a heat map of where the crashed happened in Chicago using the location d
 
 ![](https://github.com/TrevorM1738/Chicago-Car-Crash-Analysis-/blob/main/picture/confusion%20matrix.png)
 
-The final xgboost model i used had very high acuracy predicting driver negligance as the most common cause of car crashes whith the top two being following to closly and failing to yeild. 
+The final xgboost model I used had very high acuracy predicting driver negligance as the most common cause of car crashes whith the top two being following to closly and failing to yeild. 
 
 # My Suggestions
 
