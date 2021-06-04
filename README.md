@@ -9,7 +9,7 @@ Also grouped data into larger groups from the primary cause category so there wa
 
 ![](https://github.com/TrevorM1738/Chicago-Car-Crash-Analysis-/blob/main/picture/rename.png)
 
-weather doe not have much of an imact as to when crashe happen 
+weather does not have much of an imact as to when crashe happen 
 
 ![](https://github.com/TrevorM1738/Chicago-Car-Crash-Analysis-/blob/main/picture/chrash%20hour.png)
 
